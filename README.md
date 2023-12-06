@@ -13,7 +13,7 @@ The goal of this project is to demonstrate the following competencies:
 3. **JSON Response:** Upon submitting a file, the microservice returns a JSON response containing the file name, type, and size in bytes.
 
 
-##Technologies Used
+###Technologies Used
 
 * Node.js
 * Express.js
